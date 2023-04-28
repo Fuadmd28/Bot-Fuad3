@@ -65,7 +65,7 @@ global.psaweria = 'https://saweria.com/nekopoi' //Link Saweriamu Kalo Nggada Ket
 /*============== NOMOR ==============*/
 global.nomorbot = '6281335334848' //Nomor Bot
 global.nomorown = '628985954464' //Nomor Owner
-global.namebot = 'Bot Whatsapp' //Nama Bot
+global.namebot = '𝙇𝙊𝙁𝙄💞 ' //Nama Bot
 global.nameown = 'Om Pedo' // Nama Owner
 
 /*============== STAFF / MODERATOR ==============*/
@@ -80,8 +80,8 @@ global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user
 global.yuta = 'The Journey Of Rikka & Yuuta'
 global.wm = 'The Journey Of Rikka' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Rikka - Bot˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Rikka Bot'
-global.namedoc = 'Rikka Bot Multi Device' //Main Name Menu Document
+global.wm3 = '⫹⫺ 𝘽𝙖𝙣𝙜 𝙁𝘿⚡'
+global.namedoc = '𝙇𝙊𝙁𝙄💞 BY 𝘽𝙖𝙣𝙜 𝙁𝘿⚡' //Main Name Menu Document
 global.botdate = `⫹⫺ Day's: ${week} ${date}`
 global.bottime = `Time's: ${wktuwib}`
 global.titlebot = '🎋 ┊ Rpg Bot WhatsApp'
@@ -89,7 +89,7 @@ global.author = global.wm
 
 /*============== STICKER WM ==============*/
 global.stickpack = 'Made By'
-global.stickauth = `☂ ︎Rikka ✦\n\n⫹⫺ Whatsapp Bot\nwa.me/${global.nomorbot}`
+global.stickauth = `☂ 𝙇𝙊𝙁𝙄💞 ✦\n\n⫹⫺ Whatsapp Bot\nwa.me/${global.nomorbot}`
 global.packname = 'Sticker Request By'
 global.packname2 = 'Created By Rikka Bot'
 
