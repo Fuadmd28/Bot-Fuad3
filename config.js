@@ -64,13 +64,13 @@ global.psaweria = 'https://saweria.com/nekopoi' //Link Saweriamu Kalo Nggada Ket
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6281335334848' //Nomor Bot
-global.nomorown = '6285782163442' //Nomor Owner
+global.nomorown = '6287787384847' //Nomor Owner
 global.namebot = '𝙇𝙊𝙁𝙄💞 ' //Nama Bot
 global.nameown = 'Om Pedo' // Nama Owner
 
 /*============== STAFF / MODERATOR ==============*/
 global.owner = [
-  ['6285782163442', '❦ PEMILIK BOT 🎐', true] //Ganti jd nomormu sama Namamu
+  ['6287787384847', '❦ PEMILIK BOT 🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Isi Kalau Mau Nambahin Moderator!
