@@ -64,24 +64,24 @@ global.psaweria = 'https://saweria.com/nekopoi' //Link Saweriamu Kalo Nggada Ket
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6281335334848' //Nomor Bot
-global.nomorown = '6287787384847' //Nomor Owner
+global.nomorown = '6285782163442' //Nomor Owner
 global.namebot = '𝙇𝙊𝙁𝙄💞 ' //Nama Bot
 global.nameown = 'Om Pedo' // Nama Owner
 
 /*============== STAFF / MODERATOR ==============*/
 global.owner = [
-  ['6287787384847', '❦ PEMILIK BOT 🎐', true] //Ganti jd nomormu sama Namamu
+  ['6285782163442', '❦ PEMILIK BOT 🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Isi Kalau Mau Nambahin Moderator!
 global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 /*============== WATERMARK ==============*/
-global.yuta = '𝙇𝙊𝙁𝙄💞 BY 𝘽𝙖𝙣𝙜 𝙁𝘿⚡'
+global.yuta = 'Haruno⚡'
 global.wm = '𝙇𝙊𝙁𝙄💞 ' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Rikka - Bot˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = '⫹⫺ 𝘽𝙖𝙣𝙜 𝙁𝘿⚡'
-global.namedoc = '𝙇𝙊𝙁𝙄💞 BY 𝘽𝙖𝙣𝙜 𝙁𝘿⚡' //Main Name Menu Document
+global.namedoc = 'Haruno⚡' //Main Name Menu Document
 global.botdate = `⫹⫺ Day's: ${week} ${date}`
 global.bottime = `Time's: ${wktuwib}`
 global.titlebot = '🎋 ┊ Rpg Bot WhatsApp'
