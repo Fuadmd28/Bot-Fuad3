@@ -58,19 +58,19 @@ global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi t
 global.gece = 'Maaf Bot Hanya Bisa Digunakan Di Dalam Grup\nSilahkan Masuk Ke Grup Berikut\nhttps://chat.whatsapp.com/DPwoQB8WCY88tjqebnXH5P'
 // Text diatas buat dikirim saat mode group only
 /*============== PAYMENT ==============*/
-global.pdana = '081335334848' //Nomor Danamu
-global.ppulsa = '081335334848' //Nomor SimCard Yang Kamu Pake
-global.psaweria = 'https://saweria.com/yutadev' //Link Saweriamu Kalo Nggada Ketik - aja
+global.pdana = '08989513496' //Nomor Danamu
+global.ppulsa = '08989513496' //Nomor SimCard Yang Kamu Pake
+global.psaweria = 'https://saweria.com/nekopoi' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6281335334848' //Nomor Bot
-global.nomorown = '62838958681470' //Nomor Owner
-global.namebot = 'Rikka Bot' //Nama Bot
-global.nameown = 'Yuta - Dev' // Nama Owner
+global.nomorown = '628985954464' //Nomor Owner
+global.namebot = 'Bot Whatsapp' //Nama Bot
+global.nameown = 'Om Pedo' // Nama Owner
 
 /*============== STAFF / MODERATOR ==============*/
 global.owner = [
-  ['62838958681470', '❦ Yuta - Dev? 🎐', true] //Ganti jd nomormu sama Namamu
+  ['628985954464', '❦ PEMILIK BOT 🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Isi Kalau Mau Nambahin Moderator!
