@@ -64,24 +64,24 @@ global.psaweria = 'https://saweria.com/nekopoi' //Link Saweriamu Kalo Nggada Ket
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6281335334848' //Nomor Bot
-global.nomorown = '6287787384847' //Nomor Owner
-global.namebot = '𝙇𝙊𝙁𝙄💞 ' //Nama Bot
+global.nomorown = '6285782163442' //Nomor Owner
+global.namebot = 'Haruno💞 ' //Nama Bot
 global.nameown = 'Om Pedo' // Nama Owner
 
 /*============== STAFF / MODERATOR ==============*/
 global.owner = [
-  ['6287787384847', '❦ PEMILIK BOT 🎐', true] //Ganti jd nomormu sama Namamu
+  ['6285782163442', '❦ PEMILIK BOT 🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Isi Kalau Mau Nambahin Moderator!
 global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 /*============== WATERMARK ==============*/
-global.yuta = 'HuTao⚡'
-global.wm = ' HuTao💞 ' //Main Watermark
+global.yuta = 'Haruno⚡'
+global.wm = ' Haruno💞 ' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘HuTao˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = '⫹⫺ 𝘽𝙖𝙣𝙜 𝙁𝘿⚡'
-global.namedoc = 'HuTao⚡' //Main Name Menu Document
+global.namedoc = 'Haruno⚡' //Main Name Menu Document
 global.botdate = `⫹⫺ Day's: ${week} ${date}`
 global.bottime = `Time's: ${wktuwib}`
 global.titlebot = '🎋 ┊ Rpg Bot WhatsApp'
@@ -89,7 +89,7 @@ global.author = global.wm
 
 /*============== STICKER WM ==============*/
 global.stickpack = 'Made By'
-global.stickauth = `☂ HuTao 💞 ✦\n\n⫹⫺ Whatsapp Bot\nwa.me/${global.nomorbot}`
+global.stickauth = `☂ Haruno 💞 ✦\n\n⫹⫺ Whatsapp Bot\nwa.me/${global.nomorbot}`
 global.packname = 'Sticker Request By'
 global.packname2 = 'Created By Rikka Bot'
 
